@@ -37,29 +37,24 @@
 
 ---
 
-## 💻 Tech Stack:  
+## 💻 Tech Stack  
 
 ### 🔹 Programming & Data Engineering  
-* Python (Pandas, NumPy, Scikit-Learn, TensorFlow)  
-* PySpark  
-* Apache Airflow  
-* ETL Pipelines (Alteryx, SQL, Airflow, Spark, MapReduce)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
 
 ### 🔹 Databases & Storage  
-* SQL (Microsoft SQL Server, Snowflake, MongoDB)  
-* PostgreSQL  
-* Data Warehousing & Query Optimization  
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-00A1E4?style=for-the-badge&logo=snowflake&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### 🔹 Business Intelligence & Visualization  
-* Power BI (DAX, Power Query, Report Development)  
-* Tableau (Data Visualization & Dashboarding)  
-* Excel (Advanced Analytics & Automation)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
-### 🔹 Machine Learning & Data Science  
-* Regression Modeling (Linear, Logistic, Regularized)  
-* Classification (Random Forest, Decision Trees, SVM)  
-* Clustering (K-Means, PCA)  
-* A/B Testing, Fraud Detection, Customer Segmentation  
 
 ---
 
