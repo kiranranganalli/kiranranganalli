@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Kiran Ranganalli  
-### 📊 Data Analyst | Business Analyst | Business Intelligence | Data Engineering | Machine Learning Enthusiast  
+### 📊 Data Analyst | Business Analyst | Business Intelligence | Data Engineer | Machine Learning Enthusiast  
 🔍 Passionate about **cleaning raw data, extracting insights, and driving business impact** through **data analytics, business intelligence, and data engineering solutions**.  
 
 📍 Based in **San Francisco, CA** | 🎓 **Master’s in Business Analytics**  
