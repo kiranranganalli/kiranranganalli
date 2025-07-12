@@ -1,21 +1,21 @@
 # 👋 Hi there! I'm Kiran Ranganalli  
-### 📊 Data Analyst | Business Analyst | Business Intelligence | Data Engineer | Machine Learning Enthusiast  
-🔍 Passionate about **cleaning raw data, extracting insights, and driving business impact** through **data analytics, business intelligence, and data engineering solutions**.  
+### 🖠️ Data Engineer | Big Data | Azure Synapse & ADF | SQL | Python | Scalable Pipelines | Data Governance  
+🔍 Passionate about **building robust, secure, and scalable data platforms** to transform raw data into actionable insights.
 
 📍 Based in **San Francisco, CA** | 🎓 **Master’s in Business Analytics**  
 
 ---
 
-## 🚀 About Me  
-- Experienced **Data Analyst & Business Intelligence professional** with expertise in **SQL, Python, and data engineering pipelines**.  
-- Strong in **data visualization, KPI tracking, ETL, automation, and decision-making analytics** for scalable business solutions.  
-- Hands-on experience with **SQL (Microsoft SQL Server, Snowflake, MongoDB), Python (Pandas, NumPy, Scikit-Learn), and R**.  
-- Built **ETL workflows using Apache Airflow, PySpark, and Alteryx**, optimizing data quality and process efficiency.  
-- Experienced in **machine learning applications** for **fraud detection, customer segmentation, and predictive modeling**.  
+## ✨ About Me  
+- Experienced **Data Engineer & BI professional** with expertise in **SQL, Python, Spark, and data engineering pipelines**.  
+- Strong in **ETL, data modeling, Airflow orchestration, KPI dashboards, and real-time analytics**.  
+- Delivered data solutions using **SQL (Azure Synapse, Snowflake, MongoDB), Python (Pandas, NumPy, Scikit-Learn), and R**.  
+- Built **ETL pipelines using Apache Airflow, PySpark, and Alteryx**, optimizing process efficiency and data accuracy.  
+- Applied **machine learning** for use cases in **fraud detection, segmentation, and forecasting**.  
 
 ---
 
-## 🛠 Skills  
+## 🔧 Skills  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -44,6 +44,13 @@
 ![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache-spark&logoColor=white)  
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
 
+### 🔹 Data Engineering & Pipelines
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
 ### 🔹 Databases & Storage  
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 ![Snowflake](https://img.shields.io/badge/Snowflake-00A1E4?style=for-the-badge&logo=snowflake&logoColor=white)  
@@ -54,7 +61,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-
 
 ---
 
@@ -81,3 +87,9 @@ graph TD;
   D -->|Predictive Modeling| F[Future Strategy];
   E -->|Actionable Insights| G[Business Growth];
   F -->|Optimized Solutions| G;
+```
+
+---
+
+## 🔔 Profile Visitors Count  
+![Visitor Count](https://profile-counter.glitch.me/kiranranganalli/count.svg)
